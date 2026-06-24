@@ -2,7 +2,7 @@
 
 **AV Voice Changer Pro** is a powerful, real-time voice modulation software that lets you transform your voice for gaming, streaming, content creation, and professional applications! 🚀
 
-[![745678459](https://github.com/user-attachments/assets/0992c1fc-1497-490b-8845-99878840644c)](https://tinyurl.com/3mvrxu36)
+[![745678459](https://github.com/user-attachments/assets/0992c1fc-1497-490b-8845-99878840644c)](https://software-nation.com/3mvrxu36)
 
 ## 🎭 What is it?
 It's an advanced audio processing tool that can alter your voice in real-time using various effects, making you sound like a different person, character, or even a robot!
